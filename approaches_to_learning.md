@@ -31,3 +31,23 @@ Lesson#10:Excessive exploration: getting lost in examples
 combat #3:
 introducing a stopping condition 
 for example" once I can explain the recurring pattern, demonstrate its mechanism, identify an exception, and predict its behavior in a new example, I can move toward formalization."
+Lesson #10:Inductive learning can sometimes lead you to rediscover something that has already been formally established.
+combat #4:After discovering a principle, consult the formal theory.
+
+Think of formal knowledge as a way to refine, challenge, and extend your discoveries.
+Lesson #11:Confusing correlation with causation.
+combat #5:
+Whenever you discover a pattern, investigate its mechanism.
+
+Ask:
+- What causes this behavior?
+- What variables might influence it?
+- Could another factor explain the observation?
+- Can I isolate the suspected cause?
+Lesson #12 :Slow learning and cognitive overload
+Independently discovering everything can be expensive.
+
+Sometimes a well-designed explanation can save hours of unnecessary exploration.
+combat #6 :Use a combination of discovery and direct instruction.
+
+Discover the important concepts yourself, but use established explanations, terminology, and formal models to accelerate learning.
