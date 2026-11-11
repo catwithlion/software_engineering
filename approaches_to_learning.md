@@ -15,4 +15,19 @@ lesson#8: make me more intellectually independent .
 - What alternative explanations exist?
 - Under what conditions does this principle hold?
 - What would happen if the conditions changed?
- 
+        weakness how to combat 
+Lesson #8:The mistake is treating an observed pattern as a universal law.
+combat #1:
+Examine examples from different contexts.
+Search deliberately for counterexamples.
+Ask under what conditions the principle applies.
+Distinguish between a recurring pattern and a universal rule.
+Lesson #9:Confirmation bias: finding only what supports your hypothesis
+combat #2 :
+An example that supports it.
+An example that challenges it.
+A situation where it might not apply.
+Lesson#10:Excessive exploration: getting lost in examples
+combat #3:
+introducing a stopping condition 
+for example" once I can explain the recurring pattern, demonstrate its mechanism, identify an exception, and predict its behavior in a new example, I can move toward formalization."
