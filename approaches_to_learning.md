@@ -51,3 +51,9 @@ Sometimes a well-designed explanation can save hours of unnecessary exploration.
 combat #6 :Use a combination of discovery and direct instruction.
 
 Discover the important concepts yourself, but use established explanations, terminology, and formal models to accelerate learning.
+       learning principles must be kept in balance :
+lesson #12:Start with reality. Examine concrete examples, problems, and observable behavior.
+lesson #13:Investigate mechanisms. Don't jump from observing something to naming a principle. Understand how it works.
+lesson #14:Discover patterns. Compare different examples and identify recurring relationships.
+lesson #15:Challenge your conclusions. Look for exceptions, alternative explanations, and limitations.
+lesson #16:Formalize your knowledge. Consult established theories, terminology, and models. Test your understanding with new problems.
